@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Emmet",
+		"Http Requester",
+		"Insert Callback",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Flatland",
+		"Theme - Phoenix",
+		"Theme - Soda"
+	]
+}
